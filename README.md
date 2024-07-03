@@ -1,1 +1,44 @@
-# hiapp
+# 新加坡手机 SIM 卡——hi!App
+
+购买：https://t.me/GVStore
+
+## 准备
+苹果手机 App Store 下载 hi!App。
+
+[![](https://i.imgur.com/ehxbFZs.png)](https://apps.apple.com/us/app/singtel-prepaid-hi-app/id1034712778)
+
+## 激活流程
+1. iPhone 连接新加坡代理 IP
+2. 打开 hi!App 下滑至底部点击 **ARGEE AND CONTINUE**（同意并继续）
+3. 点击 **CONTINUE TO HI!APP**（继续使用 HI!APP）
+4. 点击 **Manage new number**（管理新号码）
+5. 点击 **Register new SIM card**（注册新 SIM 卡）
+6. 点击 **Manually fill up all your information**（手动填写所有信息）
+7. 选择 **Passport**（护照）→ **China**（国家）→ 输入护照号 **XXXXXXXXX**
+8. 分别输入我提供给你图片里的 `8` 位 **SIM Mobile Number** 和 `18` 位 **SIM Code**
+9. 护照拍照，识别成功后，开始人脸识别（眼睛跟着屏幕黑点走），识别成功后等待 2-4 分钟查看结果。
+
+![](https://i.imgur.com/0gK6340.jpg)
+
+注：激活过程中可能会出现网络连接失败或别的原因，退出关掉 hi!App, 等待 3 分钟，重新尝试。 
+
+## 资费
+
+- 在中国：收短信免费，接电话 3 新加坡元/分钟（不支持打电话）；
+- 在新加坡：一切正常，接打电话 0.16 新加坡元/分钟，流量包另外买。
+
+## 保号
+卡激活后可以看到有效期，到期前需要充值：
+- 充值 11 新加坡元，自动延长 120 天；
+- 充值 21 新加坡元，自动延长 180 天。
+
+## 查询余额和到期
+拨打 `*139#` 或 `*100*1#` 查询余额和到期日。
+
+## 友情提示
+如果没有流量包，建议关闭蜂窝移动网络，否则会自动扣费。
+
+
+
+
+
